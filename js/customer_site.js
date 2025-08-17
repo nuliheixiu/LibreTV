@@ -120,342 +120,342 @@ const CUSTOMER_SITES = {
         name: "小猫咪资源"
     },
     
-    "kuaiboyun": {
+    kuaiboyun: {
         api: "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
         name: "快播云",
         adult: false
     },
-    "fox": {
+    fox: {
         api: "https://api.foxzyapi.com/api.php/provide/vod/",
         name: "FOX资源",
         adult: false
     },
-    "jindouyun": {
+    jindouyun: {
         api: "https://tv.jindcloud.com/api.php/provide/vod/",
         name: "筋斗云",
         adult: false
     },
-    "xinlang": {
+    xinlang: {
         api: "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
         name: "新浪资源",
         adult: false
     },
-    "sanjiu": {
+    sanjiu: {
         api: "https://www.39kan.com/api.php/provide/vod/",
         name: "39影视",
         adult: false
     },
-    "kumaoyingshi": {
+    kumaoyingshi: {
         api: "https://www.pgcms10.com/api.php/provide/vod/",
         name: "酷猫影视",
         adult: false
     },
-    "naifeimi": {
+    naifeimi: {
         api: "https://app.netflixmi.com/ruifenglb_api.php/provide/vod/",
         name: "奈菲迷",
         adult: false
     },
-    "yananfei": {
+    yananfei: {
         api: "http://newtv.yanaifei.cn/api.php/provide/vod/",
         name: "鸭奈飞",
         adult: false
     },
-    "m3u8tv": {
+    m3u8tv: {
         api: "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
         name: "M3U8TV资源",
         adult: false
     },
-    "balingling": {
+    balingling: {
         api: "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
         name: "8090",
         adult: false
     },
-    "tiantang": {
+    tiantang: {
         api: "http://vipmv.cc/api.php/provide/vod/",
         name: "天堂资源",
         adult: false
     },
-    "qilin": {
+    qilin: {
         api: "http://www.qilinzyz.com/api.php/provide/vod/",
         name: "麒麟资源",
         adult: false
     },
-    "nuoxun": {
+    nuoxun: {
         api: "http://caiji.nxflv.com/api.php/provide/vod/",
         name: "诺讯资源",
         adult: false
     },
-    "yinghuang": {
+    yinghuang: {
         api: "https://apicdn.vipm3u8.com/xml",
         name: "英皇官采",
         adult: false
     },
-    "jiangnan": {
+    jiangnan: {
         api: "https://gfzycj.hnmj.vip/api.php/provide/vod/",
         name: "江南资源",
         adult: false
     },
-    "xingyi": {
+    xingyi: {
         api: "https://gcku.suboyun.vip/api.php/provide/vod/",
         name: "星一官采",
         adult: false
     },
-    "wabc": {
+    wabc: {
         api: "https://wabc.ml/mao/1.php/provide/vod/",
         name: "wabc(腾讯直采)",
         adult: false
     },
-    "kanmao": {
+    kanmao: {
         api: "http://124.222.83.15:88/api.php/provide/vod/",
         name: "看猫",
         adult: false
     },
-    "yimeng": {
+    yimeng: {
         api: "http://anltv.cn/api.php/provide/vod/",
         name: "忆梦",
         adult: false
     },
-    "shoutu": {
+    shoutu: {
         api: "http://zy.ishoutu.com/api.php/provide/vod/",
         name: "首涂官采",
         adult: false
     },
-    "aoteman": {
+    aoteman: {
         api: "https://aotemanzy.com/api.php/provide/vod/",
         name: "奥特曼资源",
         adult: false
     },
-    "xueren": {
+    xueren: {
         api: "https://zl.chinafix.wang/api.php/provide/vod/",
         name: "雪人官采",
         adult: false
     },
-    "muzikanju": {
+    muzikanju: {
         api: "https://mzkj.maccms.cf/api.php/provide/vod/",
         name: "木子看剧",
         adult: false
     },
-    "kuaiche": {
+    kuaiche: {
         api: "https://caiji.kczyapi.com/api.php/provide/vod/",
         name: "快车资源",
         adult: false
     },
-    "songshu": {
+    songshu: {
         api: "https://m3u8.songshuzy.com/api.php/provide/vod/",
         name: "松鼠资源",
         adult: false
     },
-    "shensu": {
+    shensu: {
         api: "https://api.sszyapi.com/api.php/provide/vod/",
         name: "神速资源",
         adult: false
     },
-    "fanqie": {
+    fanqie: {
         api: "http://api.fqzy.cc/api.php/provide/vod/",
         name: "番茄资源",
         adult: false
     },
-    "xiangkan": {
+    xiangkan: {
         api: "https://m3u8.xiangkanapi.com/api.php/provide/vod/",
         name: "想看资源",
         adult: false
     },
-    "kudian": {
+    kudian: {
         api: "https://kudianzy.com/api.php/provide/vod/",
         name: "酷点资源",
         adult: false
     },
-    "sugeng": {
+    sugeng: {
         api: "https://sugengzy.cn/api.php/provide/vod/",
         name: "速更资源",
         adult: false
     },
-    "shandian": {
+    shandian: {
         api: "http://sdzyapi.com/api.php/provide/vod/",
         name: "闪电资源",
         adult: false
     },
-    "guangsu": {
+    guangsu: {
         api: "https://api.guangsuapi.com/api.php/provide/vod/",
         name: "光速资源",
         adult: false
     },
-    "yule": {
+    yule: {
         api: "https://api.ylzy1.com/api.php/provide/vod/",
         name: "鱼乐资源",
         adult: false
     },
-    "hongniu": {
+    hongniu: {
         api: "https://www.hongniuzy1.com/inc/api.php",
         name: "红牛资源",
         adult: false
     },
-    "laoya": {
+    laoya: {
         api: "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
         name: "老鸭资源",
         adult: true
     },
-    "sewo": {
+    sewo: {
         api: "https://sewozyapi.com/api.php/provide/vod/?ac=list",
         name: "色窝资源",
         adult: true
     },
-    "javmingyou": {
+    javmingyou: {
         api: "http://mygzycj.com/sapi.php",
         name: "JAV名优资源",
         adult: true
     },
-    "senlin": {
+    senlin: {
         api: "https://slapibf.com/api.php/provide/vod/?ac=list",
         name: "森林资源(探花类)",
         adult: true
     },
-    "xiuse": {
+    xiuse: {
         api: "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
         name: "秀色资源网(番号类)",
         adult: true
     },
-    "naicha": {
+    naicha: {
         api: "https://caiji.naichaapi.com/inc/api.php",
         name: "奶茶资源(国产自拍)",
         adult: true
     },
-    "tantan": {
+    tantan: {
         api: "https://apittzy.com/api.php/provide/vod/?ac=list",
         name: "探探资源（散装AV）",
         adult: true
     },
-    "wuer": {
+    wuer: {
         api: "https://caiji.523zyw.com/inc/api.php",
         name: "523資源（散装）",
         adult: true
     },
-    "lajiao": {
+    lajiao: {
         api: "https://apilj.com/api.php/provide/vod/at/xml/",
         name: "辣椒资源",
         adult: true
     },
-    "dadi": {
+    dadi: {
         api: "https://dadiapi.com/api.php",
         name: "大地资源",
         adult: true
     },
-    "fuerdai": {
+    fuerdai: {
         api: "http://f2dcj6.com/sapi",
         name: "富二代在线采集",
         adult: true
     },
-    "lilai": {
+    lilai: {
         api: "http://llzxcj.com/inc/sck.php",
         name: "利来在线采集",
         adult: true
     },
-    "langshaonian": {
+    langshaonian: {
         api: "http://cjmygzy.com/inc/sapi.php",
         name: "狼少年猎奇",
         adult: true
     },
-    "jiujiu": {
+    jiujiu: {
         api: "http://99zywcj.com/inc/sck.php",
         name: "玖玖在线采集",
         adult: true
     },
-    "mangguo": {
+    mangguo: {
         api: "https://mgzyz1.com/api.php/provide/vod/?ac=list",
         name: "芒果资源",
         adult: true
     },
-    "sese": {
+    sese: {
         api: "http://secj8.com/inc/sapi.php",
         name: "色色资源站",
         adult: true
     },
-    "zimu": {
+    zimu: {
         api: "http://zmcj88.com/sapi",
         name: "字幕网资源站",
         adult: true
     },
-    "jiucao": {
+    jiucao: {
         api: "http://jcspcj8.com/sapi",
         name: "久草资源站",
         adult: true
     },
-    "lebo": {
+    lebo: {
         api: "https://lbapi9.com/api.php/provide/vod/at/xml/",
         name: "乐播视频资源",
         adult: true
     },
-    "semao": {
+    semao: {
         api: "https://semaozy6.com/inc/api.php",
         name: "色猫资源网(視頻)（动漫）",
         adult: true
     },
-    "xxibao": {
+    xxibao: {
         api: "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
         name: "X细胞资源网",
         adult: true
     },
-    "feisu": {
+    feisu: {
         api: "https://feisuzyapi.com/api.php/provide/vod/",
         name: "飞速资源",
         adult: false
     },
-    "hongniu2": {
+    hongniu2: {
         api: "https://www.hongniuzy2.com/api.php/provide/vod/",
         name: "红牛资源",
         adult: false
     },
-    "tiankong": {
+    tiankong: {
         api: "https://api.tiankongapi.com/api.php/provide/vod/",
         name: "天空资源",
         adult: false
     },
-    "yilingbaling": {
+    yilingbaling: {
         api: "https://1080zyk.com/api.php/provide/vod/",
         name: "1080zyk优质资源",
         adult: false
     },
-    "jinying": {
+    jinying: {
         api: "https://jyzyapi.com/api.php/provide/vod/",
         name: "金鹰资源",
         adult: false
     },
-    "aosika": {
+    aosika: {
         api: "https://aosikazy.com/api.php/provide/vod/",
         name: "奥斯卡资源",
         adult: false
 
-    "taopian": {
+    taopian: {
         api: "https://api.taopianapi.com/api.php/provide/vod/",
         name: "淘片资源",
         adult: false
     },
-    "tom": {
+    tom: {
         api: "https://api.tomzhibo.com/api.php/provide/vod/",
         name: "tom资源",
         adult: false
     },
-    "sanling": {
+    sanling: {
         api: "https://000zy.com/api.php/provide/vod/",
         name: "三零资源",
         adult: false
     },
-    "yangguang": {
+    yangguang: {
         api: "https://api.xxzyapi.com/api.php/provide/vod/",
         name: "阳光资源",
         adult: false
     },
-    "yiren": {
+    yiren: {
         api: "https://yrzyz.com/api.php/provide/vod/",
         name: "伊人资源",
         adult: false
     },
-    "tianmao": {
+    tianmao: {
         api: "https://api.tmapi.top/api.php/provide/vod/",
         name: "天猫资源",
         adult: false
     },
-    "haiwaikan": {
+    haiwaikan: {
         api: "https://api.haiwaikan.com/v1/provide/vod/",
         name: "海外看资源",
         adult: false
