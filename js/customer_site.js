@@ -137,7 +137,6 @@ const CUSTOMER_SITES = {
         api: "https://zy.xmm.hk/api.php/provide/vod",
         name: "小猫咪资源"
     }
-  }
 
 };
 
