@@ -6,7 +6,6 @@ const CUSTOMER_SITES = {
     source1: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源站',
-        adult: false
     },
     source2: {
         api: 'https://example.com/api.php/provide/vod',
