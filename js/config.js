@@ -26,17 +26,6 @@ const API_SITES = {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360',
         adult: true
-    },
-    // MODIFIED: 添加内置API源，需替换为实际可用的合法CMS V10 API地址
-    source1: {
-        api: 'https://360zy.com/api.php/provide/vod',
-        name: '360资源站',
-        adult: false
-    },
-    source2: {
-        api: 'https://example.com/api.php/provide/vod',
-        name: '示例资源站',
-        adult: false
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
