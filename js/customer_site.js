@@ -13,42 +13,42 @@ const CUSTOMER_SITES = {
         name: '非凡',
         adult: false
     },
-    source2: {
+    source4: {
         api: 'https://suoniapi.com/api.php/provide/vod/at/xml',
         name: '索尼',
         adult: false
     },
-    source2: {
+    source5: {
         api: 'https://wolongzyw.com/api.php/provide/vod/?ac=list',
         name: '卧龙',
         adult: false
     },
-    source2: {
+    source6: {
         api: 'https://www.ikunzy.com/api.php/provide/vod',
         name: 'iKun',
         adult: false
     },
-    source2: {
+    source7: {
         api: 'https://api.ukuapi.com/api.php/provide/vod/?ac=list',
         name: '尤酷',
         adult: false
     },
-    source2: {
+    source8: {
         api: 'https://jszyapi.com/api.php/provide/vod/?ac=list',
         name: '极速',
         adult: false
     },
-    source2: {
+    source9: {
         api: 'https://suoniapi.com/api.php/provide/vod/?ac=list',
         name: '率率',
         adult: false
     },
-    source2: {
+    source10: {
         api: 'https://api.apibdzy.com/api.php/provide/vod?ac=list',
         name: '百度',
         adult: false
     },
-    source2: {
+    source11: {
         api: 'https://bfzyapi.com/api.php/provide/vod/?ac=list',
         name: '暴风',
         adult: false
