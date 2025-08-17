@@ -23,8 +23,8 @@ const SITE_CONFIG = {
 // API站点配置
 const API_SITES = {
     testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
+        api: 'https://360zy.com/api.php/provide/vod',
+        name: '360',
         adult: true
     },
     // MODIFIED: 添加内置API源，需替换为实际可用的合法CMS V10 API地址
