@@ -15,7 +15,7 @@ const PASSWORD_CONFIG = {
 const SITE_CONFIG = {
     name: 'LibreTV',
     url: 'https://libretv.is-an.org',
-    description: '不再免费在线视频搜索与观看平台',
+    description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
     version: '1.0.3'
 };
@@ -24,7 +24,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     testSource: {
         api: 'https://360zy.com/api.php/provide/vod',
-        name: '360',
+        name: '筛选',
         adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
