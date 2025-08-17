@@ -1,18 +1,5 @@
 const CUSTOMER_SITES = {
-    source1: {
-        api: 'https://360zy.com/api.php/provide/vod',
-        name: '360资源站',
-    },
-    source2: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod',
-        name: '量子',
-        adult: false
-    },
-    source3: {
-        api: 'http://ffzy.tv/api.php/provide/vod',
-        name: '非凡',
-        adult: false
-    },
+
     source4: {
         api: 'https://suoniapi.com/api.php/provide/vod/at/xml',
         name: '索尼',
@@ -21,11 +8,6 @@ const CUSTOMER_SITES = {
     source5: {
         api: 'https://wolongzyw.com/api.php/provide/vod/?ac=list',
         name: '卧龙',
-        adult: false
-    },
-    source6: {
-        api: 'https://www.ikunzy.com/api.php/provide/vod',
-        name: 'iKun',
         adult: false
     },
     source7: {
@@ -56,7 +38,7 @@ const CUSTOMER_SITES = {
     dyttzy: {
         api: "http://caiji.dyttzyapi.com/api.php/provide/vod",
         name: "电影天堂资源",
-        detail: "http://caiji.dyttzyapi.com"
+        adult: false
     },
     heimuer: {
         api: "https://json.heimuer.xyz/api.php/provide/vod",
