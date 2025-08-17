@@ -52,7 +52,7 @@ const CUSTOMER_SITES = {
         api: 'https://bfzyapi.com/api.php/provide/vod/?ac=list',
         name: '暴风',
         adult: false
-    }.
+    },
     dyttzy: {
         api: "http://caiji.dyttzyapi.com/api.php/provide/vod",
         name: "电影天堂资源",
