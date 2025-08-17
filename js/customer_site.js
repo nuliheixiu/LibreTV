@@ -20,11 +20,7 @@ const CUSTOMER_SITES = {
         name: '极速',
         adult: false
     },
-    source9: {
-        api: 'https://suoniapi.com/api.php/provide/vod/?ac=list',
-        name: '率率',
-        adult: false
-    },
+
     source10: {
         api: 'https://api.apibdzy.com/api.php/provide/vod?ac=list',
         name: '百度',
@@ -424,7 +420,7 @@ const CUSTOMER_SITES = {
         api: "https://aosikazy.com/api.php/provide/vod/",
         name: "奥斯卡资源",
         adult: false
-
+    },
     taopian: {
         api: "https://api.taopianapi.com/api.php/provide/vod/",
         name: "淘片资源",
